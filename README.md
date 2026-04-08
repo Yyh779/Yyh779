@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
+
 Here are some ideas to get you started:
+Yuan yihe
 🎓 Computer Science student at Dalhousie University  
 💡 Interested in Software Development and Security  
 🚀 Actively seeking a Software Development Internship
