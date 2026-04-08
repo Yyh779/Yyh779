@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Yyh779/Yyh779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 🎓 Computer Science student at Dalhousie University  
